@@ -20,7 +20,7 @@ public class ExampleCommandGroup extends SequentialCommandGroup {
      */
     public ExampleCommandGroup(/* ExampleSubsystem exampleSubsystem, ... */) {
         // Ajouter les commandes à exécuter dans le groupe.
-        // addCommands(command1, command2, ...);
+        // super(command1, command2, ...);
         
     }
     
