@@ -2,7 +2,7 @@
 
 > **Attention!** Ce projet correspond aux changements annoncés pour 2020 en date du 25 octobre 2019. Les changements finaux peuvent différer de ce qui est présenté dans ce projet. Le template officiel devrait être utilisé à partir de janvier 2020. 
 
-Ce projet permet de débuter un projet FRC de type *Command Based* en respectant les nouveaux standards de 2020. 
+Ce projet permet de débuter un projet FRC de type *Command Based* en respectant les nouveaux standards de 2020. Il est basé en grande partie sur le [template officiel de WPILibJ](https://github.com/wpilibsuite/allwpilib/tree/master/wpilibjExamples/src/main/java/edu/wpi/first/wpilibj/templates/commandbased).
 
 Pour l'utiliser :
 1. Téléchargez le projet en format `.zip` et extraire son contenu.
