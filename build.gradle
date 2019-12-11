@@ -51,7 +51,7 @@ repositories {
 dependencies {
     compile wpi.deps.wpilib()
     compile wpi.deps.vendor.java()
-    implementation 'com.github.Oblarg:command-rewrite-jitpack:1.5.1'
+    compile 'com.github.Oblarg:command-rewrite-jitpack:1.5.1'
     nativeZip wpi.deps.vendor.jni(wpi.platforms.roborio)
     nativeDesktopZip wpi.deps.vendor.jni(wpi.platforms.desktop)
     testCompile 'junit:junit:4.12'
